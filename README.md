@@ -1,4 +1,4 @@
-# scs
+# BLAST
 
 A breakdown of our algorithm 
 Basic Local Alignment Search Tool (BLAST)
